@@ -1,0 +1,11 @@
+Lecture Votes
+Day of week, Time (0-24)
+Mon,17
+Tue,11
+Mon,18
+Fri,9
+Thu,13
+Sat,9
+Wed,12
+Fri,17
+Mon,13
